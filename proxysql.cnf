@@ -68,11 +68,11 @@ mysql_users:
  		default_hostgroup = 0
  		max_connections=1000
  		default_schema="information_schema"
- 		active = 1
+ 		active = 0
  	},
     {
  		username = "_4e34275bedab93dc"
-                password ="M863EYCWlimR0ZzH"
+                password ="OE8llCeSwUypQAZW"
  		default_hostgroup = 4
  		max_connections=1000
  		default_schema="gitbase"
